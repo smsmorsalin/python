@@ -1,1 +1,2 @@
-assignment task before start this learn basic
+### 📝 Assignments
+ Solutions to various coding tasks, practice problems, and course work.
